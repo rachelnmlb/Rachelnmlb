@@ -3,12 +3,9 @@
 
 # Quem é Rachel?
 
-
 * Estudante de Análise e Desenvolvimento de Sistemas.
 * Me aventurando pelo mundo do desenvolvimento Android.
 * Psicológa Clínica.
-
-
 
 ## Ultimamente tenho me interessado por :
 
@@ -21,9 +18,6 @@
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 	
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-
-
-<br>
 
 ## Você pode me encontrar:
 
